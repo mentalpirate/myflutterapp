@@ -1,1 +1,1 @@
-simple flutter app for LW
+solar system application using flutter
